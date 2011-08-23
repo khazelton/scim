@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/43/trunk/website/specs/schema
+END
+scim-enterprise.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/43/trunk/website/specs/schema/scim-enterprise.xsd
+END
+scim-core.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/43/trunk/website/specs/schema/scim-core.xsd
+END
